@@ -19,3 +19,11 @@ dist
 *.njsproj
 *.sln
 *.sw?
+
+# Yarn Berry
+.yarn/*
+!.yarn/patches
+!.yarn/releases
+!.yarn/plugins
+!.yarn/sdks
+!.yarn/versions
