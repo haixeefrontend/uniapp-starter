@@ -11,3 +11,7 @@ test/
 LICENSE
 license
 LICENSE.MIT
+
+.yarn/*
+dist/
+node_modules/
