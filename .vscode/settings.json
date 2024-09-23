@@ -1,0 +1,8 @@
+{
+  "files.associations": {
+    "manifest.json": "jsonc",
+    "pages.json": "jsonc"
+  },
+  "vite.buildCommand": "yarn build:h5",
+  "vite.devCommand": "yarn dev:h5"
+}

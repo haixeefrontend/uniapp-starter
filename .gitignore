@@ -19,3 +19,16 @@ dist
 *.njsproj
 *.sln
 *.sw?
+
+# Yarn Berry
+.yarn/*
+!.yarn/patches
+!.yarn/releases
+!.yarn/plugins
+!.yarn/sdks
+!.yarn/versions
+
+# Vite Plugin Output
+auto-imports.d.ts
+components.d.ts
+.eslintrc-auto-import.json
